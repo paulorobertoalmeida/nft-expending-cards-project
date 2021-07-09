@@ -1,6 +1,6 @@
 # NFT EXPENDING CARDS
 
-A Simple project made with Css and Js to display Nft´s 
+A Simple project made with Css and Vanilla JS to display Nft´s 
 
 ![Project deployed](/images/nft-expending-cards.png)
 
